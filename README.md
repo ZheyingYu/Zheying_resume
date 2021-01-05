@@ -4,3 +4,4 @@
 3. Recurrent Neural Networks and Bach music
 4. Kaggle: Nature Language Process with Disaster Tweets 
 5. Beijing PH2.5 Markov Chain Data Modeling 
+6. Recursion function for permutations
